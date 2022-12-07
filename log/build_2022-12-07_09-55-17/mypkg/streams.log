@@ -1,0 +1,27 @@
+[0.601s] Invoking command in '/home/yoshinotaiki/ros2_ws/src/mypkg': PYTHONPATH=/home/yoshinotaiki/ros2_ws/install/mypkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/yoshinotaiki/ros2_ws/build/mypkg/build install --prefix /home/yoshinotaiki/ros2_ws/install/mypkg --record /home/yoshinotaiki/ros2_ws/build/mypkg/install.log --single-version-externally-managed
+[0.825s] running egg_info
+[0.826s] writing ../../build/mypkg/mypkg.egg-info/PKG-INFO
+[0.826s] writing dependency_links to ../../build/mypkg/mypkg.egg-info/dependency_links.txt
+[0.826s] writing entry points to ../../build/mypkg/mypkg.egg-info/entry_points.txt
+[0.826s] writing requirements to ../../build/mypkg/mypkg.egg-info/requires.txt
+[0.826s] writing top-level names to ../../build/mypkg/mypkg.egg-info/top_level.txt
+[0.828s] reading manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.829s] writing manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.829s] running build
+[0.829s] running build_py
+[0.829s] copying mypkg/talker.py -> /home/yoshinotaiki/ros2_ws/build/mypkg/build/lib/mypkg
+[0.829s] running install
+[0.830s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.830s]   warnings.warn(
+[0.830s] running install_lib
+[0.830s] copying /home/yoshinotaiki/ros2_ws/build/mypkg/build/lib/mypkg/talker.py -> /home/yoshinotaiki/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg
+[0.831s] byte-compiling /home/yoshinotaiki/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/talker.py to talker.cpython-310.pyc
+[0.831s] running install_data
+[0.832s] running install_egg_info
+[0.833s] removing '/home/yoshinotaiki/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.834s] Copying ../../build/mypkg/mypkg.egg-info to /home/yoshinotaiki/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg-0.0.0-py3.10.egg-info
+[0.835s] running install_scripts
+[0.854s] Installing listener script to /home/yoshinotaiki/ros2_ws/install/mypkg/lib/mypkg
+[0.855s] Installing talker script to /home/yoshinotaiki/ros2_ws/install/mypkg/lib/mypkg
+[0.855s] writing list of installed files to '/home/yoshinotaiki/ros2_ws/build/mypkg/install.log'
+[0.882s] Invoked command in '/home/yoshinotaiki/ros2_ws/src/mypkg' returned '0': PYTHONPATH=/home/yoshinotaiki/ros2_ws/install/mypkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/yoshinotaiki/ros2_ws/build/mypkg/build install --prefix /home/yoshinotaiki/ros2_ws/install/mypkg --record /home/yoshinotaiki/ros2_ws/build/mypkg/install.log --single-version-externally-managed

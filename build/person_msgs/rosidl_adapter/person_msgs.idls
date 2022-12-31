@@ -1,1 +1,2 @@
 /home/yoshinotaiki/ros2_ws/build/person_msgs/rosidl_adapter/person_msgs:msg/Person.idl
+/home/yoshinotaiki/ros2_ws/build/person_msgs/rosidl_adapter/person_msgs:srv/Query.idl
